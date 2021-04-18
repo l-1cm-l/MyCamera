@@ -11,6 +11,7 @@
 		849656CE262B98FD00829D28 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849656CD262B98FD00829D28 /* ContentView.swift */; };
 		849656D0262B98FF00829D28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849656CF262B98FF00829D28 /* Assets.xcassets */; };
 		849656D3262B98FF00829D28 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849656D2262B98FF00829D28 /* Preview Assets.xcassets */; };
+		849656DC262B99B500829D28 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849656DB262B99B500829D28 /* ImagePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		849656CF262B98FF00829D28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		849656D2262B98FF00829D28 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		849656D4262B98FF00829D28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		849656DB262B99B500829D28 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		849656CA262B98FD00829D28 /* MyCamera */ = {
 			isa = PBXGroup;
 			children = (
+				849656DB262B99B500829D28 /* ImagePickerView.swift */,
 				849656CB262B98FD00829D28 /* MyCameraApp.swift */,
 				849656CD262B98FD00829D28 /* ContentView.swift */,
 				849656CF262B98FF00829D28 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				849656CE262B98FD00829D28 /* ContentView.swift in Sources */,
+				849656DC262B99B500829D28 /* ImagePickerView.swift in Sources */,
 				849656CC262B98FD00829D28 /* MyCameraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
