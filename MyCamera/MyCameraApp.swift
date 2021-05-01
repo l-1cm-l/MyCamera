@@ -2,7 +2,7 @@
 //  MyCameraApp.swift
 //  MyCamera
 //
-//  Created by administrator on 2021/04/18.
+//  Created by Swift-Beginners on 2020/08/27.
 //
 
 import SwiftUI
